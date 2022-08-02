@@ -13,6 +13,6 @@ gh-pages -d _book ## 发布到gh-pages分支
 gitbook pdf . ## 在目录下生成pdf文件
 gitbook epub .  ## 在目录下生成epub文件
 ```
-3. 在线阅读该文档
-[github java-inteview](https://maochunguang.github.io/java-interview/)
-[gitee java-inteview](https://mcg_dev.gitee.io/java-interview/)
+3. 在线阅读该文档 
+[github java-inteview](https://maochunguang.github.io/java-interview/) 
+[gitee java-inteview](https://mcg_dev.gitee.io/java-interview/) 
