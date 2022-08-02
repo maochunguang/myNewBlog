@@ -1,0 +1,13 @@
+{
+    "title": "Tommy的博客",
+    "author": "maocg",
+    "description": "新的博客，新的起点！",
+    "language": "zh-hans",
+    "pluginsConfig": {
+    },
+    "plugins": [
+        "back-to-top-button",
+        "expandable-chapters-small",
+        "page-toc-button"
+    ]
+}
